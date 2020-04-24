@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tw6QlbWF/cWcg3x0o12tOYVgtFbM4gqdF4AU2dHVblibm5xt53OOM22iHQL4LC4iCY5K31mpqz8SBCFHlOpDpQ==",
+  "success": true,
+  "projectFilePath": "C:\\DeadlineRepository10\\Node\\NoDeadLine\\NoDeadLine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\V1\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\V1\\.nuget\\packages\\sharpziplib\\1.2.0\\sharpziplib.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
